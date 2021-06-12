@@ -1,0 +1,1 @@
+# typify-the-script
